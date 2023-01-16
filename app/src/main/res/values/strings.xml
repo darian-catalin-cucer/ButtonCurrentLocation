@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ButtonCurrentLocation</string>
+    <string name="start_location">Start Location</string>
+    <string name="stop_location">Stop Location</string>
+</resources>
